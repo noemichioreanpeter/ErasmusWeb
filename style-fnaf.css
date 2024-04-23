@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+  
+  body{
+
+    background-image: url(kep.png);
+  }
+header{
+
+    color: white;
+    position: absolute;
+    margin: 10px;
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav .menu{
+
+    display: flex;
+    justify-content: space-around;
+   
+
+}
+
+nav .menu li{
+
+    margin: 0 10px;
+    list-style-type: none;
+
+}
+
+.Elso{
+
+    background: black;
+    width: 100%;
+    height: 100px;
+    color: red;
+    display: flex;
+    justify-content: center;
+
+}
+.Background{
+
+    display: flex;
+    justify-content: center;
+
+ }
+ .Kezdet img{
+
+    img {
+        max-width: 100%;
+        height: auto;
+      }
+
+ }
+
+.Games li{
+
+list-style-type: none;
+color: white;
+}
+
+.Games p{
+
+    color: white;
+}
+
+header{
+
+    display: flex;
+            justify-content: flex-start; 
+            padding: 10px;
+}
+
+
+.Characters{
+
+background: black;
+border-radius: 20px;
+color: white;
+text-align: center;
+font-family:Georgia, 'Times New Roman', Times, serif;
+size: 50%;
+}
+
+.Characters li{
+
+color: brown;
+display: inline-flex;
+justify-content:space-around;
+border-style: solid;
+border-radius: 5%;
+margin:20px;
+
+}
+
+.Container{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.Story{
+    text-align: center;
+    background: rgb(180, 135, 75);
+    width: 50%;
+    margin: 10px 0 10px 0;
+    border-radius: 20%;
+    border-style:double;
+    border-color: rgb(55, 33, 13);
+    
+
+}
+
+.Story img{
+
+    width: 65%;
+    border-radius: 20%;
+    padding: 0;
+    
+}
+
+.list{
+
+    background: rgb(55, 33, 13);
+    border-radius: 20%;
+    border-style:double;
+    border-color: rgb(180, 135, 75);
+}
+
+
+.Other{
+  
+    background: rgb(180, 135, 75);
+    width: fit-content;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   
+}
+
+.Other{
+
+    list-style-type: none;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgb(55, 33, 13);
+     
+}
+
+.Other ul{
+
+    padding-right: 10px;
+}
+
+.More2{
+
+    padding-top: 6%;
+    padding-right: 10%;
+    display: inline;
+    
+    
+}
+
+header{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+   .header1{
+
+    margin-left: -250px;
+    margin-top: 15px;
+   }
+
+   .header2{
+
+    margin-right: -150px;
+    margin-left: 600px;
+   }
+
+ 
+.header2 ul{
+
+
+    display: flex;
+    justify-content: space-between;
+    text-align: right;
+}
+
+.header2 p1{
+
+    color:pink;
+}
+
